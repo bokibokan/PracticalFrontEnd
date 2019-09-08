@@ -1,0 +1,36 @@
+*{
+    background-color: antiquewhite;
+}
+
+#mainDiv{
+    
+    display: inline-block;
+    position: absolute;
+    top: 10%;
+    left: 5%;
+    
+}
+
+.asideParagraph{
+text-align: left;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.hr1{
+width: 15%;
+display: inline-block;
+border-top: 2px solid rgb(235, 8, 185);
+
+}
+.asidePara{
+    display: inline-block;
+    text-align: left;
+}
+
+
+.mainPicDiv{
+    position: absolute;
+    top: 10%;
+    right: 0%;
+}
+
